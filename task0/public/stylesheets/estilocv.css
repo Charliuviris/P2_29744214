@@ -1,0 +1,86 @@
+*{
+	font-family: 'Plus Jakarta Sans', sans-serif;
+	font-weight: 100;
+	font-size: 20px;
+	
+}
+.contenedor{
+
+	background: url(fondo1.jpg);
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 50px 50px;
+}
+
+h2{
+	font-size: 40px;
+}
+
+img{
+	width: 200px;
+	height: 210px;
+	border-radius: 70%;
+	position: relative;
+	margin: 30px 20px;
+	
+}
+
+h3{
+	font-size: 20px;
+	text-shadow: 2px 1px 3px darkblue;
+}
+
+.datos-personales{
+	justify-content: center;
+	width: 400px;
+	height: 400px;
+	margin: 20px;
+}
+
+.redes{
+	justify-content: center;
+	width: 400px;
+	height: 400px;
+	margin: 20px;
+	bottom: 50px;
+	
+}
+
+.datos-academicos{
+	justify-content: center;
+	width: 400px;
+	height: 400px;
+	margin: 20px;
+	position: relative;
+	bottom: 80px;
+	
+}
+
+.experiencia{
+	justify-content: center;
+	width: 400px;
+	height: 400px;
+	margin: 20px;
+	position: relative;
+	bottom: 280px;
+
+}
+
+.habilidades{
+	justify-content: center;
+	width: 400px;
+	height: 400px;
+	margin: 20px;
+	position:relative;
+	bottom: 200px;
+	left: 100px;
+
+}
+hr{
+	color: black;
+	box-shadow: 1px 1px black;
+
+}
+
